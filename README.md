@@ -10,3 +10,9 @@ Now the radius of circles is not at the correct size, for test purposes (I have 
 I haven't yet normalized the picture : will do it with more data to adjust color and make nice "heat maps".
 
 To be continued...
+
+#Season 2
+After a first good test with 1000 of images infos and plotting red circles on the positions of the images, we adapted the little Python code to draw rectangles with shape and size fitting the info from the pictures.
+I also took into account for the distortion of the map from equator to the poles, when drawing the field of view.
+2 flavours now : red shades or heat map, that needs some tweaking...
+
