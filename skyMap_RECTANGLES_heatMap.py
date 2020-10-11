@@ -111,7 +111,7 @@ vBlueChannel = np.vectorize(blueChannelFunc)
 
 redChannelHeatMap = vRedChannel(mask)
 greenChannelHeatMap = vGreenChannel(mask)
-blueChannelHeatMap = vRedChannel(mask)
+blueChannelHeatMap = vBlueChannel(mask)
 
 colorStack = cv.merge((blueChannelHeatMap, greenChannelHeatMap, redChannelHeatMap))
 
