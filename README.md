@@ -18,4 +18,6 @@ I also took into account for the distortion of the map from equator to the poles
 
 #FINAL : here is the result below
 
+Thanks to Salvatore Iovene for his help and sharing the work on Astrobin : https://astrob.in/e4clel/0/
+
 ![Result](/results/published.jpg)
