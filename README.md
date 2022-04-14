@@ -16,4 +16,6 @@ After a first good test with 1000 of images infos and plotting red circles on th
 I also took into account for the distortion of the map from equator to the poles, when drawing the field of view.
 2 flavours now : red shades or heat map, that needs some tweaking...
 
+#FINAL : here is the result below
+
 ![Result](/results/published.jpg)
